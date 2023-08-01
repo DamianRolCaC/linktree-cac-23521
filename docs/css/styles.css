@@ -42,8 +42,18 @@ body {
     width: 80%;
   }
   
+  .w3-button {
+    background-color: #f8c923!important;
+  }
+
   .w3-theme-l1:hover {
-    background-color: #f4aa15 !important;
+    background-color: #f77a26 !important;
+    color: white !important;
+  }
+
+  .botones {
+    background-color: #7785e6 !important;
+    color: white !important;
   }
   
   .margin-top-2 {
